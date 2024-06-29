@@ -1,1 +1,1 @@
-synctvorg/synctv
+xhofe/alist:latest-ffmpeg

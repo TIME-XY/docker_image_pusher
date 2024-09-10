@@ -1,1 +1,1 @@
-xhofe/alist:latest-ffmpeg
+registry.fit2cloud.com/halo/halo:2.19

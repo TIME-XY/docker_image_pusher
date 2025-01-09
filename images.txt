@@ -1,1 +1,1 @@
-ghcr.io/heyputer/puter:latest
+uozi/nginx-ui:latest

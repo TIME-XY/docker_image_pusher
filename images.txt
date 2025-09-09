@@ -1,1 +1,1 @@
-openlistteam/openlist:latest-aio
+joplin/server:latest

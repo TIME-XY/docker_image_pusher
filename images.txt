@@ -1,1 +1,1 @@
-libzonda/flclash-docker:latest
+emby/embyserver

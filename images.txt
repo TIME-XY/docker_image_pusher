@@ -1,1 +1,1 @@
-emby/embyserver
+emby/embyserver:4.8.11.0

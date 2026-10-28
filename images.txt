@@ -1,1 +1,1 @@
-emby/embyserver:4.8.11.0
+openlistteam/openlist:latest-aio
